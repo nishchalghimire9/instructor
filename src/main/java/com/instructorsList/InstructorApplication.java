@@ -2,7 +2,7 @@ package com.instructorsList;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+// starting point of application
 @SpringBootApplication
 public class InstructorApplication {
 
@@ -11,3 +11,4 @@ public class InstructorApplication {
 	}
 
 }
+// run this code 
